@@ -1,8 +1,3 @@
-console.log("app.js added");
-
-
-
-
 const weatherForm = document.querySelector('form');
 const searchQuery = document.querySelector('input');
 const messageOne = document.querySelector('#message-1');
